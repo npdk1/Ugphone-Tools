@@ -1,6 +1,38 @@
 <h1>For Foreign</h1>
 
-When running TOOLS run terminal: python file.py --quantity 1 --mode 2 --threads 1 (file.py is the running file,quantity is the number of mails taken from the reg, mode 2 (not sure), Thread 1 (tolerable)-> set default 2 later) Some libraries if missing: pip install webdriver_manager pip install pyjwt If there is an error, delete import jwt create an accounts.txt file, put the mail in the form of mail|pass (for example:JessyPagannen26406m@3mb.us|Truong3979 ) create a proxys.txt file if there is an existing proxy, then insert it or not :V
+When running TOOLS, execute the following command in the terminal:
+
+python file.py --quantity 1 --mode 2 --threads 1
+
+file.py is the script being executed.
+
+--quantity specifies the number of emails to retrieve for registration.
+
+--mode 2 (unknown purpose).
+
+--threads 1 (unknown purpose, but default to 2 for the last two options).
+
+
+Required Libraries (if missing, install them with):
+
+pip install webdriver_manager  
+pip install pyjwt
+
+If an error occurs, try removing the import jwt line from the script.
+
+Necessary Files:
+
+1. accounts.txt – Store emails in the format:
+
+email|password  
+Example: JessyPagannen26406m@3mb.us|Truong3979
+
+
+2. proxies.txt – If you have proxies, add them here (optional).
+
+
+
+
 
 
 <h1>For Vietnam</h1>
