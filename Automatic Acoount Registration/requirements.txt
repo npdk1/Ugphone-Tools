@@ -1,0 +1,9 @@
+selenium
+webdriver_manager
+pyjwt
+requests
+json
+logging
+platform
+argparse
+concurrent.futures
