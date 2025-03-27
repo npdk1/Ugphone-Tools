@@ -1,3 +1,9 @@
+<h1>For Foreign</h1>
+
+When running TOOLS run terminal: python file.py --quantity 1 --mode 2 --threads 1 (file.py is the running file,quantity is the number of mails taken from the reg, mode 2 (not sure), Thread 1 (tolerable)-> set default 2 later) Some libraries if missing: pip install webdriver_manager pip install pyjwt If there is an error, delete import jwt create an accounts.txt file, put the mail in the form of mail|pass (for example:JessyPagannen26406m@3mb.us|Truong3979 ) create a proxys.txt file if there is an existing proxy, then insert it or not :V
+
+
+<h1>For Vietnam</h1>
 Khi chạy TOOLS
 
 chạy terminal : python file.py --quantity 1 --mode 2 --threads 1
